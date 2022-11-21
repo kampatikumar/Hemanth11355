@@ -1,0 +1,27 @@
+.ip1
+{
+    width: 300px;
+    height: 30px;
+    text-align: center;
+    font-weight: bold;
+}
+fieldset
+{
+    width: 800px;
+    height: 650px;
+    border-color: black;
+    background-image: linear-gradient(lightblue,silver);
+    box-shadow: 1px 1px 5px blue;
+}
+img
+{
+    width: 70px;
+    height: 70px;
+}
+input,h3
+{
+    width: 320px;
+    height: 30px;
+    text-align: center;
+    font-weight: bold;
+}
